@@ -1,1 +1,3 @@
 # GMD_paper_data
+
+This repository contains the data needed to recreate the results in the submitted manuscript ...
